@@ -2,7 +2,7 @@
 	"name": "auto-region-folder",
 	"displayName": "Auto Region Folder",
 	"description": "Fold all regions automatically when open files.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"icon": "icon.png",
 	"author": {
 		"email": "dnek.app@gmail.com",
@@ -11,6 +11,9 @@
 	},
 	"homepage": "https://github.com/dnek/vscode-auto-region-folder",
 	"publisher": "DNEK",
+	"bugs": {
+		"url": "https://github.com/dnek/vscode-auto-region-folder/issues"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/dnek/vscode-auto-region-folder.git"
